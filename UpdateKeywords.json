@@ -1,0 +1,9 @@
+
+[{    "campaignId": 17638899,
+    "importAction": "UPDATE",
+    "adGroupId": 17678543,
+    "text": "testKeyword",
+    "matchType": "BROAD",
+    "bidAmount": {"amount":"1", "currency":"USD"},
+    "id" : 12345678
+}]
